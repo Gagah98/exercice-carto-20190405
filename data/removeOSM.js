@@ -1,5 +1,7 @@
 const R = require('ramda')
 
+//pick permet de choisir les attributs que l'on souhaite alors que omit les enlève
+
 module.exports = feature => ({
   ...feature,
   properties: R.omit([

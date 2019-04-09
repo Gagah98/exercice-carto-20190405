@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/5743615375",
+      "properties": {
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "4",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "amenity": "nightclub",
+        "name": "Citrons Masqués",
+        "opening_hours": "fr-sa 21:00-04:30",
+        "phone": "+41 (0)24 426 56 00",
+        "source": "knowledge",
+        "website": "https://citronsmasques.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6443438,
+          46.7801758
+        ]
+      }
+    }
+  ]
+}
